@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a61c96b1_43680a02",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2026-01-02T16:36:55Z",
+      "side": 1,
+      "message": "giuliac has different tree no?",
+      "revId": "1013bd705f6ae9cff90ee8698d1edaff98ec2eb7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
