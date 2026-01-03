@@ -16,6 +16,24 @@
       "message": "giuliac has different tree no?",
       "revId": "1013bd705f6ae9cff90ee8698d1edaff98ec2eb7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "03ab894e_43da71d6",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-01-03T13:37:35Z",
+      "side": 1,
+      "message": "It’s still required for this device, as they depend on each other to make all lenses work.",
+      "parentUuid": "a61c96b1_43680a02",
+      "revId": "1013bd705f6ae9cff90ee8698d1edaff98ec2eb7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
